@@ -1,0 +1,36 @@
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\data.sqlite
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.deps.json
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.runtimeconfig.json
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.runtimeconfig.dev.json
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.dll
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.pdb
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\Teste.dll
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\bin\Debug\netcoreapp2.1\Teste.pdb
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.csprojAssemblyReference.cache
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.csproj.CoreCompileInputs.cache
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.AssemblyInfoInputs.cache
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.AssemblyInfo.cs
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.csproj.CopyComplete
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.dll
+C:\Users\Maikiely\source\repos\Prova\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.pdb
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.dll
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.pdb
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\data.sqlite
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.deps.json
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.runtimeconfig.json
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.runtimeconfig.dev.json
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.dll
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\UnidadeTeste.pdb
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\Teste.dll
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\bin\Debug\netcoreapp2.1\Teste.pdb
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.csprojAssemblyReference.cache
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.csproj.CoreCompileInputs.cache
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.AssemblyInfoInputs.cache
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.AssemblyInfo.cs
+C:\Users\Maikiely\source\repos\Nova pasta\UnidadeTeste\obj\Debug\netcoreapp2.1\UnidadeTeste.csproj.CopyComplete
