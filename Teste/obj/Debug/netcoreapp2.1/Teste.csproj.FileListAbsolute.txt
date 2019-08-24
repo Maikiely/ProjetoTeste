@@ -1,0 +1,17 @@
+C:\Users\Maikiely\source\repos\Teste\bin\Debug\netcoreapp2.1\Teste.deps.json
+C:\Users\Maikiely\source\repos\Teste\bin\Debug\netcoreapp2.1\Teste.runtimeconfig.json
+C:\Users\Maikiely\source\repos\Teste\bin\Debug\netcoreapp2.1\Teste.runtimeconfig.dev.json
+C:\Users\Maikiely\source\repos\Teste\bin\Debug\netcoreapp2.1\Teste.dll
+C:\Users\Maikiely\source\repos\Teste\bin\Debug\netcoreapp2.1\Teste.pdb
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.csprojAssemblyReference.cache
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.csproj.CoreCompileInputs.cache
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.RazorAssemblyInfo.cache
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.RazorAssemblyInfo.cs
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.AssemblyInfoInputs.cache
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.AssemblyInfo.cs
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.RazorTargetAssemblyInfo.cache
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.dll
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.pdb
+C:\Users\Maikiely\source\repos\Teste\bin\Debug\netcoreapp2.1\Teste.Views.dll
+C:\Users\Maikiely\source\repos\Teste\obj\Debug\netcoreapp2.1\Teste.csproj.CopyComplete
+C:\Users\Maikiely\source\repos\Teste\bin\Debug\netcoreapp2.1\data.sqlite
