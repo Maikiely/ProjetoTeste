@@ -30,41 +30,49 @@ namespace Teste.Controllers
             return Context.Produto.FirstOrDefault().CodGtin;
         }*/
         [HttpGet]
-        public IEnumerable<Produto> Get([FromHeader]string cod)
+        public ActionResult<IEnumerable<Produto>> Get([FromHeader]string cod)
         {
-            List<Produto> produtos = new List<Produto>();
-            string[] linhas = cod.Split("\n");
-            for(int i = 0; i < linhas.Length;i++)
+            if (!string.IsNullOrEmpty(cod))
             {
-                string[] colunas = linhas[i].Split(',');
-                Produto produto = new Produto();
-                produto.CodGtin = colunas[0];
-                produto.DataEmissao = colunas[1];
-                produto.CodTipoPagamento = (colunas[2]);
-                produto.CodProduto = int.Parse(colunas[3]);
-                produto.CodNcm = int.Parse(colunas[4]);
-                produto.CodUnidade = (colunas[5]);
-                produto.DscProduto = colunas[6];
-                produto.VlrUnitario = float.Parse(colunas[7]);
-                produto.IdEstabelecimento = int.Parse(colunas[8]);
-                produto.NmeEstabelecimento = colunas[9];
-                produto.NmeLogradouro = colunas[10];
-                produto.CodNumeroLogradouro = int.Parse(colunas[11]);
-                produto.NmeComplemento = colunas[12];
-                produto.NmeBairro = colunas[13];
-                produto.CodMunicipioIbge = int.Parse(colunas[14]);
-                produto.NmeMunicipio = colunas[15];
-                produto.NmeSigleUf = colunas[16];
-                produto.CodCep = int.Parse(colunas[17]);
-                produto.NumLatitude = colunas[18];
-                produto.NumLongitude = colunas[19];
+                List<Produto> produtos = new List<Produto>();
+                string[] linhas = cod.Split("\n");
+                for (int i = 0; i < linhas.Length; i++)
+                {
+                    string[] colunas = linhas[i].Split(',');
+                    Produto produto = new Produto();
+                    produto.CodGtin = colunas[0];
+                    produto.DataEmissao = colunas[1];
+                    produto.CodTipoPagamento = (colunas[2]);
+                    produto.CodProduto = int.Parse(colunas[3]);
+                    produto.CodNcm = int.Parse(colunas[4]);
+                    produto.CodUnidade = (colunas[5]);
+                    produto.DscProduto = colunas[6];
+                    produto.VlrUnitario = float.Parse(colunas[7]);
+                    produto.IdEstabelecimento = int.Parse(colunas[8]);
+                    produto.NmeEstabelecimento = colunas[9];
+                    produto.NmeLogradouro = colunas[10];
+                    produto.CodNumeroLogradouro = int.Parse(colunas[11]);
+                    produto.NmeComplemento = colunas[12];
+                    produto.NmeBairro = colunas[13];
+                    produto.CodMunicipioIbge = int.Parse(colunas[14]);
+                    produto.NmeMunicipio = colunas[15];
+                    produto.NmeSigleUf = colunas[16];
+                    produto.CodCep = int.Parse(colunas[17]);
+                    produto.NumLatitude = colunas[18];
+                    produto.NumLongitude = colunas[19];
 
-                produtos.Add(produto);
+                    produtos.Add(produto);
+                }
+                Context.Produto.AddRange(produtos);
+                Context.SaveChanges();
+
+                return Ok(produtos);
             }
-            Context.Produto.AddRange(produtos);
-            Context.SaveChanges();
-
-            return produtos;
+            else
+            {
+                return BadRequest();
+            }
+           
         }
 
        /*public ActionResult<int> Get([FromHeader]int id)
